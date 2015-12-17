@@ -1,0 +1,28 @@
+name: Tyler Dilts
+favicon: null
+layout_spectrum: 0.9207615815103054
+typography_spectrum: 0.26925167185254395
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.10362204699777067
+  lightness: 0.2890417368616909
+  saturation: 0.5103089939802885
+  rhythmicContrast: 0.7866963914129883
+purpose: []
